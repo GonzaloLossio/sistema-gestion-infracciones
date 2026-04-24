@@ -1,33 +1,39 @@
-# Sistema de Gestión de Infracciones de Tránsito
+Para que tu repositorio del Sistema de Gestión de Infracciones mantenga el mismo nivel de profesionalismo y coherencia técnica que tu perfil principal, he adaptado el contenido al lenguaje Markdown de GitHub.
 
-Sistema desarrollado en C++ para gestionar y procesar infracciones de tránsito utilizando **listas simplemente enlazadas**.
+Copia y pega este bloque en el archivo README.md de ese repositorio:
 
-## 🎯 ¿Qué hace este sistema?
-- **Registra empresas** y sus vehículos (placas)
-- **Gestiona infracciones** de tránsito cometidas
-- **Calcula multas** automáticamente según tablas predefinidas
-- **Controla pagos** y deudas de infracciones
-- **Genera reportes** organizados por distritos
+Markdown
+# Sistema de Gestión de Infracciones
 
-## 🔧 Funcionalidades Principales
-1. **Carga de datos** desde archivos CSV
-2. **Búsqueda eficiente** de empresas por DNI
-3. **Registro de infracciones** por placa de vehículo
-4. **Cálculo automático** de multas y totales
-5. **Gestión de pagos** (pagado/adeudado)
-6. **Ordenamiento** de empresas por distrito
-
-## 💻 Tecnologías
-- **C++** con programación modular
-- **Listas simplemente enlazadas** para gestión dinámica
-- **Archivos CSV** para persistencia de datos
-- **Gestión de memoria** con punteros
-
-## 🚀 Cómo usar
-1. Compilar el proyecto con un compilador C++
-2. Los archivos CSV deben estar en `ArchivosDeDatos/`
-3. Ejecutar el programa `main`
+### Software de administración y procesamiento de datos en C++
+Sistema desarrollado como proyecto académico para la gestión de infracciones de tránsito, enfocado en la aplicación de estructuras de datos dinámicas y persistencia de información.
 
 ---
 
-*Desarrollado como proyecto académico de Técnicas de Programación - Ingeniería Informática PUCP*
+### Funcionalidades Core
+* **Gestión de Entidades:** Registro y administración de empresas y vehículos asociados.
+* **Procesamiento de Infracciones:** Control automatizado de multas basado en tablas predefinidas y estados de pago.
+* **Persistencia de Datos:** Carga y almacenamiento de información mediante archivos CSV.
+* **Reportes Estructurados:** Generación de informes organizados por distritos y niveles de deuda.
+
+### Stack Técnico
+* **Lenguaje:** C++ (Programación Modular).
+* **Estructuras de Datos:** Listas simplemente enlazadas para gestión dinámica de memoria.
+* **Herramientas:** Punteros para optimización de recursos y Git para control de versiones.
+
+### Lógica de Ingeniería Aplicada
+* **Búsqueda Eficiente:** Implementación de algoritmos de búsqueda para localización de registros por DNI o placa.
+* **Validación de Reglas de Negocio:** Lógica algorítmica para el cálculo automático de montos y validación de estados de infracción.
+* **Organización de Datos:** Ordenamiento dinámico de registros para la optimización de reportes operativos.
+
+---
+
+### Instalación y Ejecución
+1. Clonar el repositorio: `git clone https://github.com/GonzaloLossio/Sistema-Gestion-Infracciones.git`
+2. Asegurar que los archivos CSV se encuentren en el directorio `ArchivosDeDatos/`.
+3. Compilar y ejecutar el archivo `main.cpp` utilizando un compilador estándar (g++ o similar).
+
+---
+
+### Contexto Académico
+Este proyecto forma parte de la formación en **Ingeniería Informática** en la *
