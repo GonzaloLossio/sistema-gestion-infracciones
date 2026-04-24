@@ -5,7 +5,7 @@ Sistema desarrollado como proyecto académico para la gestión de infracciones d
 
 ---
 
-### Funcionalidades Core
+### Funcionalidades Principales
 * **Gestión de Entidades:** Registro y administración de empresas y vehículos asociados.
 * **Procesamiento de Infracciones:** Control automatizado de multas basado en tablas predefinidas y estados de pago.
 * **Persistencia de Datos:** Carga y almacenamiento de información mediante archivos CSV.
