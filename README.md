@@ -31,4 +31,4 @@ Sistema desarrollado como proyecto académico para la gestión de infracciones d
 ---
 
 ### Contexto Académico
-Este proyecto forma parte de la formación en **Ingeniería Informática** en la *
+Este proyecto forma parte de la formación en **Ingeniería Informática** en la **Pontificia Universidad Católica del Perú (PUCP)**, específicamente para el curso de Técnicas de Programación.
