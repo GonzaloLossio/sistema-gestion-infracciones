@@ -1,8 +1,3 @@
-Para que tu repositorio del Sistema de Gestión de Infracciones mantenga el mismo nivel de profesionalismo y coherencia técnica que tu perfil principal, he adaptado el contenido al lenguaje Markdown de GitHub.
-
-Copia y pega este bloque en el archivo README.md de ese repositorio:
-
-Markdown
 # Sistema de Gestión de Infracciones
 
 ### Software de administración y procesamiento de datos en C++
